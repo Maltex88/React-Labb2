@@ -1,0 +1,8 @@
+.listOfButtons {
+  list-style: none;
+  display: flex;
+  margin-left: 22%;
+}
+.selected {
+  border: 2px solid blue;
+}
